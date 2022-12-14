@@ -3,17 +3,6 @@ package practiseProblemsDay9;
 import java.util.Scanner;
 
 public class adressBookMain {
-	@Override
-	public boolean equals(Object obj) {
-		
-		return super.equals(obj);
-	}
-
-	@Override
-	public int hashCode() {
-		// TODO Auto-generated method stub
-		return super.hashCode();
-	}
 
 	String firstName, lastName, address, city, state, email;
 	int zipCode, phoneNumber;
